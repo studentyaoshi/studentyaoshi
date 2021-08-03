@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Yao Shi, Ph.D.
-> Key Laboratory of Biomedical Information Engineering of Ministry of Education  
-> Biomedical Informatics & Genomics Center  
-> School of Life Science and Technology  
+> National and Local Joint Engineering Research Center of Biodiagnosis and Biotherapy  
+> The Second Affiliated Hospital  
 > Xi'an Jiaotong University  
-> Xi'an, Shaanxi, P. R. China
+> Xi'an, Shaanxi, P.R.China
 
-- 👀 I’m interested in identifying genetic factors associated with complex diseases, such as depression, BMD, BMI, et al.
+- 👀 I’m interested in identifying genetic factors associated with complex diseases, such as MDD, PD, BMI, et al.
 - 🌱 I’m currently focusing on establishing the disease susceptibility prediction model.
 - 📫 You can contact ✉️studentyaoshi@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.
 
