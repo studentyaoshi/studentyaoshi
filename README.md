@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in identifying genetic factors associated with complex diseases, such as MDD, PD, BMI, et al.
 - 🌱 I’m currently focusing on establishing the disease susceptibility prediction model.
-- 📫 You can contact ✉️studentyaoshi@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.
+- 📫 You can contact ✉️yaoshi@xjtu.edu.cn when you have any questions, suggestions, comments, etc.
 
 <!---
 studentyaoshi/studentyaoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
