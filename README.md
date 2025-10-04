@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Yao Shi, Ph.D.
-> National and Local Joint Engineering Research Center of Biodiagnosis and Biotherapy  
-> The Second Affiliated Hospital  
-> Xi'an Jiaotong University  
-> Xi'an, Shaanxi, P.R.China
+> Guangdong Key Laboratory of Age-Related Cardiac and Cerebral Diseases  
+> Affiliated Hospital of Guangdong Medical University  
+> Zhanjiang, Guangdong, P.R.China
 
-- 👀 I’m interested in identifying genetic factors associated with complex diseases, such as MDD, PD, BMI, et al.
+- 👀 I’m interested in identifying genetic factors associated with complex diseases, such as MDD, SCZ, et al.
 - 🌱 I’m currently focusing on establishing the disease susceptibility prediction model.
-- 📫 You can contact ✉️yaoshi@xjtu.edu.cn when you have any questions, suggestions, comments, etc.
+- 📫 You can contact ✉️yaoshi@xjtu.edu.cn OR ✉️yaoshi@gdmu.edu.cn when you have any questions, suggestions, comments, etc.
 
 <!---
 studentyaoshi/studentyaoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
